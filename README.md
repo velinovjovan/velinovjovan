@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jovan Velinov</h1>
-<h3 align="center">Student @ Shool of Electrical Enginnering, University of Belgrade</h3>
+<h3 align="center">Student @ Shool of Electrical Engineering, University of Belgrade</h3>
 
 - 🌱 I’m currently learning **Mobile App Development**
 
