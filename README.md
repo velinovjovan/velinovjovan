@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [https://jovanvelinov.vercel.app](https://jovanvelinov.vercel.app)
+- 👨‍💻 All of my projects are available at [https://jovanvelinov.vercel.app](https://velinov.vercel.app)
 
 - 📫 How to reach me **jowwanv@gmail.com**
 
