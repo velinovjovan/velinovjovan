@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jovan Velinov</h1>
 <h3 align="center">Student @ Shool of Electrical Engineering, University of Belgrade</h3>
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **C++ Concurrency**
 
 - 👨‍💻 All of my projects are available at [https://velinov.vercel.app](https://velinov.vercel.app)
 
