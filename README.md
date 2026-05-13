@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **jowwanv@gmail.com**
 
-- ⚡ Fun fact **I'm alright at competitive programming :)**
+- ⚡ Fun fact **I'm alright at competitive programming ;)**
